@@ -1,6 +1,6 @@
-# Welcome to Java Library
+# Welcome to Library
 
-Simple library management system written in Java
+Simple library management system written in Java.
 
 ## Usage
 
